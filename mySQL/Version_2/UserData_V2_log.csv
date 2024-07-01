@@ -1,0 +1,3 @@
+LogID,Operation,SNo,FullName,Email,Phone,OperationTime
+1,INSERT,15,"A Yogi",Yogesh@moder.com,1234565590,"2024-06-30 23:38:22"
+2,INSERT,16,"A Yogi",Yogeshw@moder.com,1234565590,"2024-06-30 23:38:58"

@@ -1,0 +1,6 @@
+LogID,Operation,SNo,FullName,Email,Phone,OperationTime
+1,INSERT,3,"A Yogi",Yogeswaran@moder.com,1234565590,"2024-07-01 00:03:39"
+2,UPDATE,3,"A Yo",Yogeswaran@moder.com,1234565590,"2024-07-01 00:03:57"
+3,UPDATE,1,"A Yo",Yogi@moder.com,1234565590,"2024-07-01 00:03:57"
+4,DELETE,3,"A Yo",Yogeswaran@moder.com,1234565590,"2024-07-01 00:04:27"
+5,DELETE,1,"A Yo",Yogi@moder.com,1234565590,"2024-07-01 00:04:27"
